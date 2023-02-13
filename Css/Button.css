@@ -1,0 +1,76 @@
+.circle ul li a:hover {
+    transform: translate(0, -15px);
+    color: #000000;
+  }
+  
+  .circle ul li .fa-instagram:hover {
+    color: #E1306C;
+  }
+  
+  .circle ul li .fa-facebook:hover {
+    color: #3B5998;
+  }
+  
+  .circle ul li .fa-twitter:hover {
+    color: #55ACEE;
+  }
+  
+  .circle ul li .fa-tiktok:hover {
+    color: #010101;
+  }
+  
+  .circle ul li .fa-linkedin:hover {
+    color: #0077B5;
+  }
+  
+  .circle ul li .fa-telegram:hover {
+    color: #0088CC;
+  }
+  
+  .circle ul li .fa-reddit:hover {
+    color: #FF4500;
+  }
+  
+  .circle ul li .fa-youtube:hover {
+    color: #FF0000;
+  }
+  
+  .circle ul li .fa-discord:hover {
+    color: #7289DA;
+  }
+  
+  .circle ul li .fa-twitch:hover {
+    color: #9147FE;
+  }
+  
+  .circle ul li .fa-github:hover {
+    color: #FFFFFF;
+  }
+  
+  .circle ul li .fa-medium:hover {
+    color: #12100E;
+  }
+  
+  .circle ul li .fa-etsy:hover {
+    color: #f55901;
+  }
+    
+  .circle ul li .fa-envelope:hover {
+	  color: #9147FE;
+  }
+  
+  .circle ul li .tryhackme:hover {
+	  color: #c0130f;
+  }
+  
+  .circle ul li .credly:hover {
+	  color: #ff6b00;
+  }
+  
+   .circle ul li .hackthebox:hover {
+	  color: #9eef01;
+  }
+  
+   .circle ul li .tunein:hover {
+	  color: #15d9cb;
+  }
